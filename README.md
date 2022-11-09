@@ -1,8 +1,14 @@
+
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47q6opz073nf9gxpljpe3mso1h54akiigwt8zc5qme&rid=giphy.gif&ct=g">
+
+
 # ¡Hola! 👋
 ### Mi nombre es Maximiliano Zeballos y recientenmente he comenzado actualizar mi GitHub. ¡Espero que te guste! 🚀
 ---
 
-*De verdad que soy muy buena trabajando en equipo...solo...necesito encontrar uno 😅*
+
+
+*De verdad que soy muy bueno trabajando en equipo...solo...necesito encontrar uno 😅*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -31,5 +37,10 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+
 
 
