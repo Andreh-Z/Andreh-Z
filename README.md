@@ -1,10 +1,10 @@
 # ¡Hola! 👋
-### Mi nombre es Margje Name y recientenmente he comenzado actualizar mi GitHub. ¡Espero que te guste! 🚀
+### Mi nombre es Maximiliano Zeballos y recientenmente he comenzado actualizar mi GitHub. ¡Espero que te guste! 🚀
 ---
 
 *De verdad que soy muy buena trabajando en equipo...solo...necesito encontrar uno 😅*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=margjename&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Lenguajes y herramientas que manejo 😮</h3>
