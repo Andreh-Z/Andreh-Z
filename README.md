@@ -30,8 +30,8 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 ### E-commerce clothing store
 
-![Screenshot 1](https://imgur.com/spcEAhd.png)
-![Screenshot 2](https://imgur.com/LxNIFUf.png)
+![Screenshot 1](https://imgur.com/spcEAhd.png){:height="50%" width="50%"}
+![Screenshot 2](https://imgur.com/LxNIFUf.png){:height="50%" width="50%"}
 ![Screenshot 3](https://i.imgur.com/GmKQmzh.png)
 
 ### Pokedex
