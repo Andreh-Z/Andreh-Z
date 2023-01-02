@@ -30,14 +30,14 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 ### E-commerce clothing store
 
-![Screenshot 1](https://imgur.com/spcEAhd)
-![Screenshot 2](https://imgur.com/LxNIFUf)
+![Screenshot 1](https://imgur.com/spcEAhd.png)
+![Screenshot 2](https://imgur.com/LxNIFUf.png)
 ![Screenshot 3](https://i.imgur.com/GmKQmzh.png)
 
 ### Pokedex
 
-![Screenshot 1](https://imgur.com/XfZw0N3)
-![Screenshot 2](https://imgur.com/G6vvqBD)
+![Screenshot 1](https://imgur.com/XfZw0N3.png)
+![Screenshot 2](https://imgur.com/G6vvqBD.png)
 ![Screenshot 3](https://i.imgur.com/BjKvZg1.png)
 
 ### Space travel website
