@@ -30,21 +30,21 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 ### E-commerce clothing store
 
-![Screenshot 1](https://imgur.com/spcEAhd.png){:height="50%" width="50%"}
-![Screenshot 2](https://imgur.com/LxNIFUf.png){:height="50%" width="50%"}
-![Screenshot 3](https://i.imgur.com/GmKQmzh.png)
+<img src="https://imgur.com/spcEAhd.png" height="40%" width="40%">
+<img src="https://imgur.com/LxNIFUf.png" height="40%" width="40%">
+<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
 
 ### Pokedex
 
-![Screenshot 1](https://imgur.com/XfZw0N3.png)
-![Screenshot 2](https://imgur.com/G6vvqBD.png)
-![Screenshot 3](https://i.imgur.com/BjKvZg1.png)
+<img src="https://imgur.com/XfZw0N3.png" height="40%" width="40%">
+<img src="https://imgur.com/G6vvqBD.png" height="40%" width="40%">
+<img src="https://i.imgur.com/BjKvZg1.png" height="40%" width="40%">
 
 ### Space travel website
 
-![Screenshot 1](https://i.imgur.com/GmKKQmzh.png)
-![Screenshot 2](https://i.imgur.com/GmKQmzh.png)
-![Screenshot 3](https://i.imgur.com/GmKQmzh.png)
+<img src="https://i.imgur.com/GmKKQmzh.png" height="40%" width="40%">
+<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
+<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
 
 ## Currently working on
 
