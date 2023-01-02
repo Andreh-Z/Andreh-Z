@@ -32,7 +32,7 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 <img src="https://imgur.com/spcEAhd.png" height="40%" width="40%">
 <img src="https://imgur.com/LxNIFUf.png" height="40%" width="40%">
-<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
+<img src=https://imgur.com/qvD9miM.png" height="40%" width="40%">
 
 ### Pokedex
 
@@ -42,9 +42,10 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 ### Space travel website
 
-<img src="https://i.imgur.com/GmKKQmzh.png" height="40%" width="40%">
-<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
-<img src="https://i.imgur.com/GmKQmzh.png" height="40%" width="40%">
+<img src="https://media.giphy.com/media/nbC2CKTOrPc8uW7cB4/giphy.gif" height="40%" width="40%">
+<img src="https://imgur.com/VNAWKts.png" height="40%" width="40%">
+<img src="https://media.giphy.com/media/NEbYQEqGj2g0q9dHmK/giphy-downsized-large.gif" height="40%" width="40%">
+
 
 ## Currently working on
 
