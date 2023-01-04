@@ -44,7 +44,7 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 <img src="https://media.giphy.com/media/nbC2CKTOrPc8uW7cB4/giphy.gif" height="40%" width="40%">
 <img src="https://imgur.com/VNAWKts.png" height="40%" width="40%">
-<img src="https://media.giphy.com/media/fuVITzRUcBucQiDHqV/giphy.gif" height="40%" width="40%">
+<img src="https://media.giphy.com/media/fuVITzRUcBucQiDHqV/giphy.gif" height="60%" width="60%">
 
 
 ## Currently working on
