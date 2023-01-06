@@ -4,6 +4,15 @@ As a software developer with a passion for front-end development and a strong fo
 
 In my free time, I enjoy spending time with animals, learning about design, and staying up-to-date on the latest developments in my field.
 
+## Table of Contents
+
+1. [Introduction](#maximiliano-zeballos-💻)
+2. [Skills and knowledge](#skills-and-knowledge)
+3. [Links](#links)
+4. [Featured projects](#featured-projects)
+5. [Gallery](#gallery)
+6. [Currently working on](#currently-working-on)
+
 ## Skills and knowledge
 
 - 🤹‍♂️ React: Proficient in building scalable, performance-optimized front-end applications using React and related libraries such as Redux, React Router, and Material UI.
@@ -48,7 +57,6 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 <img src="https://imgur.com/VNAWKts.png" height="50%" width="50%">
 <img src="https://media.giphy.com/media/fuVITzRUcBucQiDHqV/giphy-downsized.gif" height="50%" width="50%">
 
-
 ## Currently working on
 
 I am currently working on designing a fully functional portfolio template using React, Redux, Bootstrap, Framer Motion, and Material UI.
@@ -69,8 +77,10 @@ I am currently working on designing a fully functional portfolio template using 
 - 💡 Creative thinking: I enjoy finding creative solutions to problems and am always looking for ways to improve upon existing processes. I am able to think outside the box and come up with original ideas to add value to a project.
 - 🧑‍🔬 Analytical: I have a strong ability to analyze and understand complex systems and processes, and am able to use this skill to identify areas for improvement and come up with solutions.
 
-## Philosophy
+## Why consider me?
 
-"The only place where success comes before work is in the dictionary." - Vidal Sassoon
+As a software developer with experience in technologies such as React, Express, PostgreSQL, and Node, I am confident in my ability to deliver high-quality and reliable code. I am also a fast learner and adapt easily to new technologies.
 
-I believe that hard work and dedication are key to achieving success in any field. I am committed to continuously learning and improving my skills in order to deliver the best results and make meaningful contributions to my team and the projects I work on.
+In addition to my technical skills, I have a strong focus on communication and teamwork, making me a valuable asset to any team.
+
+Thank you for taking the time to read about my skills and experiences. I am always looking for new challenges and opportunities to learn and grow, and I am excited about the possibility of working with you.
