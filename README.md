@@ -26,6 +26,8 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 🚀 Space travel website: This website provides information about a fictional space travel agency. It was built using React, Redux, React Router, Bootstrap for design, and Framer Motion for animations. It is a visually appealing website with information about space travel. You can view the project at [link].
 
+📝 Form simulator: This is a form simulator built using React and Firebase, with a design powered by react-bootstrap. It allows users to fill out a form and submit their responses, which are then stored in a Firebase database. The form components are developed based on a JSON file, so you can customize the components by simply editing the JSON file. The simulator is connected to Firebase and, after registering, returns a table with all the registered users in the database in real time. View the project at <a href="https://greydive-test.web.app/">[link]</a>.
+
 ## Gallery
 
 ### E-commerce clothing store
