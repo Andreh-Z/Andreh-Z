@@ -19,7 +19,10 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 - 🚀 Express: Experienced in building back-end server applications using Node.js and the Express.js framework.
 - 💾 PostgreSQL: Experienced in designing and implementing database schema, performing data manipulation and analysis, and optimizing performance using PostgreSQL.
 - 🚧 Node: Experienced in building full-stack JavaScript applications using Node.js and various npm packages.
+- 📱 React-Native: Experience in developing native mobile applications for Android and iOS using React Native and related libraries such as Native Icons and Routing.
+- 💻 TypeScript: Experienced in adding type-checking to JavaScript projects, improving the maintainability and scalability of the codebase.
 - 💡 Other technologies/languages: Proficient in JavaScript, HTML, and CSS. Experienced in using MongoDB, PHP, Tailwind, Bootstrap, Framer Motion, and Svelte for various projects.
+
 
 ## Links
 
@@ -37,6 +40,8 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 📝 Form simulator: This is a form simulator built using React and Firebase, with a design powered by react-bootstrap. It allows users to fill out a form and submit their responses, which are then stored in a Firebase database. The form components are developed based on a JSON file, so you can customize the components by simply editing the JSON file. The simulator is connected to Firebase and, after registering, returns a table with all the registered users in the database in real time. View the project at <a href="https://greydive-test.web.app/">[link]</a>.
 
+🌍 Travel-Go: A travel application developed for those who are always on the go! This app was created using React Native, TypeScript, and the latest design trends with TailwindCSS. I was responsible for implementing routing and integrating Native Icons for a seamless user experience. Whether you're searching for a restaurant, attraction, or hotel, Travel-Go makes it easy to find what you're looking for with its modern design and easy-to-use interface. Stay tuned for updates and improvements, as I'm constantly working to make this app even better.<a href="https://www.travel-go.com">[link]</a>.
+
 ## Gallery
 
 ### E-commerce clothing store
@@ -50,6 +55,12 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 <img src="https://imgur.com/XfZw0N3.png" height="40%" width="40%">
 <img src="https://imgur.com/G6vvqBD.png" height="40%" width="40%">
 <img src="https://i.imgur.com/BjKvZg1.png" height="40%" width="40%">
+
+### Travel-Helper
+
+<img src="https://imgur.com/af7VwAX.png" height="20%" width="20%" alt="img1"/>
+<img src="https://imgur.com/IroD97e.png" height="20%" width="20%" alt="img2"/>
+<img src="https://imgur.com/VtY6aQX.png" height="20%" width="20%" alt="img3"/>
 
 ### Space travel website
 
