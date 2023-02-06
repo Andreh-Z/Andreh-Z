@@ -45,8 +45,8 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 📺 Netflix clone: This project is a replica of the popular streaming platform, Netflix, built using Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, and Stripe. Although it's not yet finished, you can view a live preview of the work at <a href="https://www.example.com">[link]</a> or pictures 
 [Netflix-Clone](#Netflix-Clone)
   #### In Progress:
-- Google Authentication <= Here right now
-- Firebase (users database)
+- ~~FireBase Authentication~~ 
+- Firebase (users database) <= Here right now
 - Payment Method (Stripe)
 - Animations
 
