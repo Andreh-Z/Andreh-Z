@@ -62,6 +62,7 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 <img src="https://media.giphy.com/media/UKhrrZfoeZZyRL3wB3/giphy.gif" height="40%" width="40%">
 <img src="https://media.giphy.com/media/XcFAqL8OuXaPxV7YPw/giphy.gif" height="40%" width="40%">
+<img src="https://media.giphy.com/media/RupSBRC9OVRnD1Szbk/giphy.gif" height="40%" width="40%">
 
 ### Space travel website
 
