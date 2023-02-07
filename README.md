@@ -42,13 +42,13 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 🌍 Travel-Go: A travel application developed for those who are always on the go! This app was created using React Native, TypeScript, and the latest design trends with TailwindCSS. I was responsible for implementing routing and integrating Native Icons for a seamless user experience. Whether you're searching for a restaurant, attraction, or hotel, Travel-Go makes it easy to find what you're looking for with its modern design and easy-to-use interface. Stay tuned for updates and improvements, as I'm constantly working to make this app even better.<a href="https://www.travel-go.com">[link]</a>.
 
-📺 Netflix clone: This project is a replica of the popular streaming platform, Netflix, built using Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, and Stripe. Although it's not yet finished, you can view a live preview of the work at <a href="https://www.example.com">[link]</a> or pictures 
+📺 Netflix clone: This project is a replica of the popular streaming platform, Netflix, built using Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, and Stripe. Although it's not yet finished, you can view a live preview of the work at <a href="https://netflix-ksilvsc72-andreh-z.vercel.app/login">[link]</a> or pictures 
 [Netflix-Clone](#Netflix-Clone)
   #### In Progress:
 - ~~FireBase Authentication~~ 
-- Firebase (users database) <= Here right now
-- Payment Method (Stripe)
-- Animations
+- ~~Firebase (users database)~~ 
+- Payment Method (Stripe) <= Here right now
+- ~~Animations~~ 
 
 ## Gallery
 
