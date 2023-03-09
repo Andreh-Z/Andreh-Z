@@ -73,7 +73,7 @@ In my free time, I enjoy spending time with animals, learning about design, and 
       
 ## Currently working on
 
-I am currently working on creating a Netflix clone using Next.js v15, React v18, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, and Stripe.
+
 
 ## Contact
 
