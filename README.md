@@ -82,7 +82,7 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 
 ## Awards and recognition
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&title=Commit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&title=Commit&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Soft Skills
