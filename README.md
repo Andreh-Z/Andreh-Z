@@ -81,11 +81,9 @@ In my free time, I enjoy spending time with animals, learning about design, and 
 - 📱 Phone: +598 097069089
 
 ## Awards and recognition
-<div style="text-align:center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&title=Commit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andreh-Z&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
 
 ## Soft Skills
 
