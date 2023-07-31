@@ -1,4 +1,4 @@
-# Maximiliano Zeballos 💻
+# Maximiliano 💻
 
 As a software developer with a passion for front-end development and a strong focus on communication and teamwork, I am always looking for new challenges and opportunities to learn and grow. With experience in technologies such as React, Express, PostgreSQL, and Node, I am confident in my ability to deliver high-quality, reliable code.
 
